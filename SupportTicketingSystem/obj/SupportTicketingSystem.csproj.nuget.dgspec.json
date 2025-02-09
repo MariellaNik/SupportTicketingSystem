@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\SupportTicketingSystem\\SupportTicketingSystem\\SupportTicketingSystem.csproj": {}
+    "C:\\Users\\user\\Desktop\\SupportTicketingSystem\\SupportTicketingSystem\\SupportTicketingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\SupportTicketingSystem\\SupportTicketingSystem\\SupportTicketingSystem.csproj": {
+    "C:\\Users\\user\\Desktop\\SupportTicketingSystem\\SupportTicketingSystem\\SupportTicketingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\SupportTicketingSystem\\SupportTicketingSystem\\SupportTicketingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\SupportTicketingSystem\\SupportTicketingSystem\\SupportTicketingSystem.csproj",
         "projectName": "SupportTicketingSystem",
-        "projectPath": "C:\\Users\\user\\source\\repos\\SupportTicketingSystem\\SupportTicketingSystem\\SupportTicketingSystem.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\SupportTicketingSystem\\SupportTicketingSystem\\SupportTicketingSystem.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\SupportTicketingSystem\\SupportTicketingSystem\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\SupportTicketingSystem\\SupportTicketingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
